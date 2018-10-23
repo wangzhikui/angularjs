@@ -1,0 +1,12 @@
+{
+  "name": "angulajs",
+  "version": "1.0.0",
+  "description": "angularjs",
+  "dependencies": {},
+  "scripts": {
+    "start": "gitbook serve ./content ./gh-pages",
+    "build": "gitbook build ./content ./gh-pages"
+  },
+  "author": "wangzhikui",
+  "licence": "ISC"
+}
