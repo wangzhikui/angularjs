@@ -1,3 +1,26 @@
 {
-
+  "title": "",
+  "description": "",
+  "language": "zh-hans",
+  "gitbook": "3.x.x",
+  "plugins": [
+    "github",
+    "disqus"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/wangzhikui"
+    },
+    "disqus": {
+        "shortName": "gitbookuse"
+    },
+    "sharing": {
+      "weibo": true,
+      "twitter": false,
+      "facebook": false
+    },
+    "sitemap": {
+      "hostname": "http://wangzhikui.github.io/angularjs/"
+    }
+  }
 }
