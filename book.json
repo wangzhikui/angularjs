@@ -4,8 +4,6 @@
   "language": "zh-hans",
   "gitbook": "3.x.x",
   "plugins": [
-    "github",
-    "disqus"
   ],
   "pluginsConfig": {
     "github": {
